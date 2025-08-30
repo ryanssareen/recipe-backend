@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gradient-to-br from-pink-100 to-indigo-200 min-h-screen;
+  font-family: sans-serif;
+}
